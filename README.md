@@ -11,6 +11,7 @@ Configuration files and setup instructions for my terminal setup and preferences
 - NVM
 - RVM
 - Yarn
+- VS Code
 
 ## Get Started
 

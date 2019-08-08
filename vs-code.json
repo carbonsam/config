@@ -1,0 +1,37 @@
+{
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.fontSize": 14,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 1,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "git.enableSmartCommit": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "files.eol": "\n",
+  "editor.rulers": [80, 120],
+  "files.insertFinalNewline": true,
+  "workbench.iconTheme": "vscode-great-icons",
+  "git.ignoreMissingGitWarning": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.associations": {
+    "*.svelte": "html"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "editor.formatOnSave": true
+}
