@@ -1,6 +1,6 @@
 # Config :hammer_and_wrench:
 
-Configuration files and setup instructions for my tool preferences.
+Configuration files and setup instructions for my terminal setup and preferences.
 
 ## Tools
 
@@ -14,12 +14,12 @@ Configuration files and setup instructions for my tool preferences.
 
 1. Clone repo
 
-```sh
-git clone git@github.com:carbonsam/config.git
-```
+   ```shell
+   git clone git@github.com:carbonsam/config.git
+   ```
 
 1. Execute the setup script:
 
-```sh
-sudo setup.sh
-```
+   ```shell
+   sudo ./setup.sh
+   ```
