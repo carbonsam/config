@@ -1,12 +1,25 @@
 # Config :hammer_and_wrench:
 
-Configuration files and setup instructions for my tool preferences. To be based loosely on: https://medium.freecodecamp.org/automating-your-windows-subsystem-linux-setup-df4c9a7b0e7b.
+Configuration files and setup instructions for my tool preferences.
 
 ## Tools
 
-- Hyper
-- NodeJS
-- ZSH/Oh My ZSH (robbyrussell theme) |OR| Fish/Oh My Fish (mars theme)
-- Git
+- Windows Terminal (with Hyper as backup)
+- ZSH/Oh My ZSH (sorin theme)
 - NVM
+- RVM
 - Yarn
+
+## Get Started
+
+1. Clone repo
+
+```sh
+git clone git@github.com:carbonsam/config.git
+```
+
+1. Execute the setup script:
+
+```sh
+sudo setup.sh
+```
