@@ -2,6 +2,8 @@
 
 Configuration files and setup instructions for my terminal setup and preferences.
 
+![terminal screenshot](./screenshot.png)
+
 ## Tools
 
 - Windows Terminal (with Hyper as backup)
