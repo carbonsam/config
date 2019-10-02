@@ -37,12 +37,7 @@
             "hidden": true
         }
     ],
-
-    // Add custom color schemes to this array
     "schemes": [],
-
-    // Add any keybinding overrides to this array.
-    // To unbind a default keybinding, set the command to "unbound"
     "keybindings": [
         {
             "command": "copy",
