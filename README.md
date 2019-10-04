@@ -1,28 +1,36 @@
 # Config :hammer_and_wrench:
 
-Configuration files and setup instructions for my terminal setup and preferences.
+Opinionated configuration for my personal development setup. Feel free to use and tweak for yourself!
 
 ![terminal screenshot](./screenshot.png)
 
 ## Tools
 
-- Windows Terminal (with Hyper as backup)
-- ZSH/Oh My ZSH (sorin theme)
-- NVM
-- RVM
-- Yarn
-- VS Code
+:computer: Editor: [VS Code](https://code.visualstudio.com)
 
-## Get Started
+:scroll: Terminal: [Windows Terminal](https://github.com/microsoft/terminal)
 
-1. Clone repo
+:turtle: Shell: [ZSH & Oh My ZSH](https://ohmyz.sh)
 
-   ```shell
-   git clone git@github.com:carbonsam/config.git
-   ```
+:package: Package Managers:
+- [Yarn](https://github.com/yarnpkg/yarn)
+- [PIPENV](https://github.com/pypa/pipenv)
 
-1. Execute the setup script:
+:vertical_traffic_light: Version Managers:
+- Node: [NVM](https://github.com/nvm-sh/nvm)
+- Ruby: [RVM](https://github.com/rvm/rvm)
+- Python: [PYENV](https://github.com/pyenv/pyenv)
 
-   ```shell
-   sudo ./setup.sh
-   ```
+:tophat: Formatters:
+- JavaScript: [Prettier](https://github.com/prettier/prettier)
+- Python: [Black](https://github.com/psf/black)
+
+## Usage
+
+```shell
+# Clone repo
+git clone git@github.com:carbonsam/config.git
+
+# Run setup script
+sudo ./setup.sh
+```
